@@ -8,7 +8,7 @@ as a U.S. Army Satellite Communications Operator-Maintainer, including a
 combat deployment to Iraq and a humanitarian deployment to Liberia. Then 
 seven years with the FAA as an Airway Transportation System Specialist, 
 maintaining airfield RF and navigation infrastructure across Alaska and 
-Florida. Now I'm pointing that operational mindset at data problems.
+then in Florida. Now I'm pointing that operational mindset at solving data problems.
 
 ### What I'm working on
 
