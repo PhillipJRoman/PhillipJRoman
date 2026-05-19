@@ -31,8 +31,8 @@ Currently picking up Databricks and automated workflows.
 
 ### Outside the code
 
-CrossFit, fragrances (chypres and dark florals, mostly), and mentoring my 
-nephew. Long-term I want to volunteer in youth STEM education.
+CrossFit and any human-powered outdoor recreation, Jack Reacher Novels, and mentoring my nephew.
+Long-term I want to volunteer in youth STEM education.
 
 ### Connect
 
