@@ -27,7 +27,7 @@ then in Florida. Now I'm pointing that operational mindset at solving data probl
 ### Tools I reach for
 
 Python, SQL, PyTorch, XGBoost, Scikit-Learn, Pandas, DVC, Docker, Git, GCP. 
-Currently picking up Databricks and automated workflows.
+Next on the list is Databricks and automated workflows.
 
 ### Outside the code
 
